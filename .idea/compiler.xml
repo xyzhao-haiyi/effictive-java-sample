@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tip21" />
+        <module name="tip32" />
+        <module name="tip35" />
+        <module name="tip41" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="effective-java-sample" target="1.5" />
+      <module name="tip21" target="1.6" />
+      <module name="tip32" target="1.5" />
+      <module name="tip35" target="1.5" />
+      <module name="tip41" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/effective-java-sample.iml" filepath="$PROJECT_DIR$/effective-java-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tip21/tip21.iml" filepath="$PROJECT_DIR$/tip21/tip21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tip32/tip32.iml" filepath="$PROJECT_DIR$/tip32/tip32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tip35/tip35.iml" filepath="$PROJECT_DIR$/tip35/tip35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tip41/tip41.iml" filepath="$PROJECT_DIR$/tip41/tip41.iml" />
+    </modules>
+  </component>
+</project>
